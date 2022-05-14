@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @StebenC0912
+- 👋 Hi, I’m Tran Linh
 - 👀 I’m interested in code
 - 🌱 I’m currently learning information technology in hanoi university
 - 💞️ I’m looking to collaborate on some project about front-end
