@@ -45,8 +45,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StebenC0912&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
         ---
-### 🎼Now PLaying🎶 :
-<div align="center"> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31rluuhcsp2kui3d4b3mgf2uj72y&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31rluuhcsp2kui3d4b3mgf2uj72y&cover_image=true&theme=compact&show_offline=true"></div> 
 <!---
 StebenC0912/StebenC0912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
