@@ -4,6 +4,9 @@
   <a href="https://www.linkedin.com/in/l%C4%A9nh-tr%E1%BA%A7n-kh%E1%BA%AFc/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://www.facebook.com/StenbenC">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
 </div>
 <h1>
   Здравствуйте
@@ -20,7 +23,6 @@
     <p>
       - 💞️ I’m looking to collaborate on some project about back-end and java
     </p>
-    <p>- 📫 How to reach me on facebook: www.facebook.com/stenbenc</p>
     <p>
       - Now, i am working as admin and coder for a page in facebook:
       https://www.facebook.com/CreepyPastaVietsub/
