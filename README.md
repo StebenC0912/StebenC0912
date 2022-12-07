@@ -18,7 +18,7 @@
  <p>- 👋 Hi, I’m Tran Linh</p>
   <p>- 👀 I’m interested in code</p>
     <p>
-      - 🌱 I’m currently learning information technology in hanoi university
+      - 🌱 I’m currently learning information technology in Hanoi University
     </p>
     <p>
       - 💞️ I’m looking to collaborate on some project about back-end and java
