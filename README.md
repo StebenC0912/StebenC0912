@@ -23,7 +23,7 @@
     <p>
       - 💞️ I’m looking to collaborate on some project about back-end and java
     </p>
-   
+   <p>- 🏫 I'm a backend developer in Google Developers Student Clubs- Hanoi Univerisity </p>
  </div>
  ---
 
