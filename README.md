@@ -18,12 +18,12 @@
  <p>- 👋 Hi, I’m Tran Linh</p>
   <p>- 👀 I’m interested in code</p>
     <p>
-      - 🌱 I’m currently learning information technology in Hanoi University
+      - 🌱 I’m currently learning information technology in Hanoi University.
     </p>
     <p>
-      - 💞️ I’m looking to collaborate on some project about back-end and java
+      - 💞️ I’m looking to collaborate on some project about back-end and java.
     </p>
-   <p>- 🏫 I'm a backend developer in Google Developers Student Clubs- Hanoi Univerisity </p>
+   <p>- 🏫 I'm a backend developer in Google Developers Student Clubs- Hanoi Univerisity.</p>
  </div>
  ---
 
