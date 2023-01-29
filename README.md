@@ -25,7 +25,7 @@
     </p>
    <p>- 🏫 I'm a backend developer in Google Developers Student Clubs- Hanoi Univerisity.</p>
   <p>
-      - 🌱 I have been a admin in fanpage <a href="https://www.facebook.com/CreepyPastaVietsubs">CreepyPasta Việt Nam</a>.
+      - 🌱 I have been an admin in fanpage <a href="https://www.facebook.com/CreepyPastaVietsubs">CreepyPasta Việt Nam</a>.
     </p>
  </div>
  ---
