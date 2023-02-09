@@ -21,7 +21,7 @@
       - 🌱 I’m currently learning information technology in Hanoi University.
     </p>
     <p>
-      - 💞️ I’m looking to collaborate on some project about back-end and java.
+      - 💞️ I’m looking to collaborate on some project about back-end.
     </p>
    <p>- 🏫 I'm a backend developer in Google Developers Student Clubs- Hanoi Univerisity.</p>
   <p>
