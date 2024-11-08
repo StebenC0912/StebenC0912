@@ -24,7 +24,7 @@
       - 💞️ I’m looking to collaborate on some project about back-end and android.
     </p>
      <p>- 🏫 Now, I'm a android developer at FPT Software.</p>
-   <p>- 🏫I had been a teaching assistant in Hanoi University and a backend developer in Google Developers Student Clubs- Hanoi Univerisity.</p>
+   <p>- 🏫 I had been a teaching assistant in Hanoi University and a backend developer in Google Developers Student Clubs- Hanoi Univerisity.</p>
   <p>
       - 🌱 I have been an admin in fanpage <a href="https://www.facebook.com/CreepyPastaVietsubs">CreepyPasta Việt Nam</a>.
     </p>
